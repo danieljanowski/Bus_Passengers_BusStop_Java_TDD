@@ -21,6 +21,7 @@ public class BusStop {
     public Person removePerson() {
         return this.queue.remove(0);
     }
+
 }
 
 
